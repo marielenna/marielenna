@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-**marielenna/marielenna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**marielenna/marielenna** is my ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on my new job, learning how to crochet and baking holiday cookies.
 - 🌱 I’m currently learning github actions.
