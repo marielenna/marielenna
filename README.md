@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my new job, learning how to crochet and baking holiday cookies.
+- 🔭 I’m currently working as a Sr Product Manager, learning how to crochet and baking all the things.
 - 🌱 I’m currently learning github actions.
 - 📫 How to reach me: Linkedin
 - 😄 Pronouns: she/her/ella
