@@ -14,7 +14,7 @@
                   
                   🍎 IT Communication Strategy
                   
-                  ⚓ Octobot for the Travel Team
+                  ⚓ Moveworks Expansion
                   
                   🎱 Semester Roadmap and Capacity Planning
                   
