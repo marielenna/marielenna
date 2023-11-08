@@ -14,7 +14,7 @@
                   
                   🍎 IT Communication Strategy
                   
-                  ⚓ Moveworks Expansion
+                  ⚓ AI Expansion
                   
                   🎱 Semester Roadmap and Capacity Planning
                   
