@@ -28,7 +28,7 @@
 
   ## 💬 Ask me about
 
-  `AI product strategy` · `building PM teams` · `LLMs in education` · `Canvas/LTI integrations` · `Wnterprise AI tools`
+  `AI product strategy` · `building PM teams` · `LLMs in education` · `Canvas/LTI integrations` · `Enterprise AI tools`
 
   ---
 
