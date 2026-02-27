@@ -11,7 +11,7 @@
   I build AI products that change how people work. Not demos. Not pilots that die in a deck. Real things, in production, used by real people.
 
   - 🎓 **ASU** — Conversational AI, voice-enabled learning tools, agentic workflows embedded into Canvas
-  - 🐙 **GitHub** — Internal AI chatbots, IT automation, software license intelligence ($500K saved, first year)
+  - 🐙 **GitHub** — Internal AI chatbots, IT automation, software license intelligence
   - 🐦 **Twitter** — Enterprise tooling, FTC compliance, Jira standardization across eng teams
 
   ---
