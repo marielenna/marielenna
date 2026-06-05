@@ -36,5 +36,6 @@
 
   I'm open to Director or Senior-level AI Product roles, consulting engagements, and speaking opportunities.
                                                                        
-  [Let's connect on LinkedIn](https://www.linkedin.com/in/marybramirez/) 🤝                                                                              
+  [Let's connect on LinkedIn](https://www.linkedin.com/in/marybramirez/) 🤝  
+  [Check out my portfolio](www.maryramirez.tech) 📖
  
