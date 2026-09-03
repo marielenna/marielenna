@@ -2,7 +2,7 @@
                                                                                                                                                       
   > *I turn chaos into clarity. AI is how I do it.*                                                                                                   
                   
-  I'm a **Senior Manager of AI** at EdPlus within Arizona State University. Leading teams that build AI products for students, faculty, and staff at scale. Before ASU, I shipped internal AI tools at **GitHub** and standardized how engineers worked at **Twitter**.
+I'm a hands-on AI/LLM product manager with 13+ years shipping human-centered products across GitHub, Twitter/X, and Arizona State University turning ambiguous LLM and agent capabilities into things people actually use.
 
   ---
 
